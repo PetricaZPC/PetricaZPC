@@ -1,15 +1,15 @@
 # Petrică Zahapschi
 
-Salut. Sunt student în anul 1 la Informatică (specializarea Inteligență Artificială) în cadrul Universității de Vest din Timișoara. Mă concentrez pe dezvoltarea de aplicații web și mobile, având un interes puternic pentru ecosistemul JavaScript/TypeScript, dar și pentru Python și C/C++.
+Hi there! 👋 I am a 1st-year Computer Science student (Artificial Intelligence specialization) at the West University of Timișoara (UVT). I focus on web and mobile application development, with a strong interest in the JavaScript/TypeScript ecosystem, as well as Python and C/C++.
 
-### Experiență & Hackathoane
-Dincolo de cursurile de la facultate, îmi place să scriu cod aplicat. Am participat la competiții de programare (iTEC, ITFest, UniHack), unde am învățat lucruri esențiale pentru industrie:
-* Să construiesc MVP-uri (Minimum Viable Products) funcționale într-un timp foarte scurt.
-* Să colaborez eficient într-o echipă tehnică sub presiunea deadline-urilor.
-* Să integrez rapid tehnologii noi atunci când proiectul o cere.
+### Experience & Hackathons
+Beyond university courses, I love writing applied code. I've actively participated in programming competitions (iTEC, ITFest, UniHack), where I learned essential industry skills:
+* Building functional MVPs (Minimum Viable Products) under tight deadlines.
+* Collaborating effectively within a technical team.
+* Rapidly learning and integrating new technologies to solve real-world problems.
 
-### Obiectiv
-În prezent, caut oportunități de **internship sau roluri de Junior** (Front-End, Full-Stack sau Mobile cu React Native), unde să pot contribui la proiecte reale și să mă dezvolt profesional alături de o echipă cu experiență.
+### Objective
+Currently, I am looking for **Internship or Junior roles** (Front-End, Full-Stack, or Mobile with React Native), where I can contribute to real projects and grow professionally alongside an experienced team.
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
